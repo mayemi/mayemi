@@ -1,6 +1,6 @@
 **👋 Hi,**  
   
-You came across with mayemi. ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mayemi)  
+You came across with mayemi.  
   
 **The languages where i can sort of get my point across**  
 
